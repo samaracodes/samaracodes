@@ -19,9 +19,7 @@ I'm a tenacious learner with a strong work ethic, being able to learn new things
   
  ![Samara's GitHub stats](https://github-readme-stats.vercel.app/api?username=samaracodes&theme=bear&show_icons=true)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samaracodes&repo=bloom-delivery-frontend&theme=bear&show_icons=true)](https://github.com/samaracodes/bloom-devliery-frontend)
-
-
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samaracodes&repo=bloom-delivery-frontend&theme=bear&show_icons=true)](https://github.com/samaracodes/bloom-devliery-frontend)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samaracodes&repo=autoswift_frontend&theme=bear&show_icons=true)](https://github.com/samaracodes/autoswift_frontend)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samaracodes&repo=sinatra-dream-space-proj&theme=bear&show_icons=true)](https://github.com/samaracodes/sinatra-dream-space-proj)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samaracodes&repo=table_critique&theme=bear&show_icons=true)](https://github.com/samaracodes/table_critique)
 
 
 </p>
