@@ -3,9 +3,10 @@
 <p align="center">
 
 <h2> Hey! Get to know me 🥳🙌🏼 </h2>
-I'm a Software Engineer from NYC that is passionate about expressing my creativity and building applications from the ground up. <br>
-I've graduated from the Flatiron School bootcamp, class of '21. <br>
-I'm a tenacious learner with a strong work ethic, being able to learn new things makes me love what I do.  
+I'm a Software Engineer from NYC and I've recently graduated from the Flatiron School bootcamp, class of '21. <br>
+Currently actively searching for my first SWE role. <br>
+I'm really passionate about expressing my creativity and building applications from the ground up, seeing my vision come to life is what drives me. <br>
+I'm a tenacious learner with a strong work ethic. The tech industry is something that is ever-evolving and with that I know I'm forever a student, I have no problem learning new things. 
 
 <h2> My Current Stack ✨</h2>
 <ul>
