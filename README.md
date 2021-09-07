@@ -15,6 +15,8 @@ I'm a tenacious learner with a strong work ethic, being able to learn new things
   <li>Sinatra</li>
   <li>HTML</li>
   <li>CSS</li>
+  <li>PostgresSql</li>
+  <li>MySQL</li>
  </ul>
   
  ![Samara's GitHub stats](https://github-readme-stats.vercel.app/api?username=samaracodes&theme=bear&show_icons=true)
