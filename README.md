@@ -22,7 +22,6 @@ I'm a tenacious learner with a strong work ethic. The tech industry is something
   
  ![Samara's GitHub stats](https://github-readme-stats.vercel.app/api?username=samaracodes&theme=bear&show_icons=true)
  
-![counter](https://komarev.com/ghpvc/?username=samaracodes&color=ff69b4)
 
 
 
