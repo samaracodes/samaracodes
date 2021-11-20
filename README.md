@@ -1,4 +1,4 @@
-![Samara Grant (4)](https://user-images.githubusercontent.com/64047870/132391708-5911192a-797f-4855-ae16-f49b3d0454ad.png)
+![Samara Grant (7)](https://user-images.githubusercontent.com/64047870/142744197-4ecc77ea-5c37-4f7e-b5cf-1e5047bb862e.png)
 
 <p align="center">
 
