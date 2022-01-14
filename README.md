@@ -20,7 +20,6 @@ I'm a tenacious learner with a strong work ethic. The tech industry is something
   <li>MySQL</li>
  </ul>
   
- ![Samara's GitHub stats](https://github-readme-stats.vercel.app/api?username=samaracodes&theme=bear&show_icons=true)
  
 
 
