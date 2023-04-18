@@ -7,7 +7,7 @@
 - 🧸 I’m a Full-Stack Software Engineer from NYC
 - 📚 I'm self taught & also attended the Flatiron School bootcamp in 2021.
 - 🍀 I have an eye for design. I take UX/UI design courses in my spare time.
-- 🐙 I come from a background of working in the medical and automotive industries.
+- 🐙 I come from a background of working in Customer Service based roles, mostly in the medical and automotive industries.
 - ❤️ I'm passionate about expressing my creativity and building applications from the ground up.
 
 
