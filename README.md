@@ -5,7 +5,7 @@
 # Hey! I'm Samara Grant. #
 
 - 🧸 I’m a Full-Stack Software Engineer from NYC
-- 📚 I'm self taught & also attended the Flatiron School bootcamp in 2021.
+- 📚 I'm self taught & also attended the Flatiron School bootcamp in 2022.
 - 🍀 I have an eye for design. I take UX/UI design courses in my spare time.
 - 🐙 I come from a background of working in Administrative based roles, mostly in the medical and automotive industries.
 - ❤️ I'm passionate about expressing my creativity and building applications from the ground up.
